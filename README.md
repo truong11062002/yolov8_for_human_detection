@@ -61,6 +61,8 @@ You can download pytorch model (.pt) at this link: [model](https://github.com/tr
 
 # Demo
 
+
+
 Predict 01             |  Predict 02
 :-------------------------:|:-------------------------:
-![Crowd-of-Diverse-People_800x528 (1)](https://github.com/truong11062002/yolov8_for_human_detection/assets/74360292/5f42125a-d5f7-411c-bf7c-513c60090360)  |  ![XaHpf_z51huQS_JPHs-jkPhBp0dLlxFJwt-sPLpGJB0](https://github.com/truong11062002/yolov8_for_human_detection/assets/74360292/347db97f-5602-41d3-aecd-7bfecebbb19f)
+![Crowd-of-Diverse-People_800x528 (1)](https://github.com/truong11062002/yolov8_for_human_detection/assets/74360292/d0aec1bc-9c61-4cd5-88f4-051ff302e0fc)  |  ![XaHpf_z51huQS_JPHs-jkPhBp0dLlxFJwt-sPLpGJB0](https://github.com/truong11062002/yolov8_for_human_detection/assets/74360292/46729022-2d22-40c5-97d2-56334247f0e5)

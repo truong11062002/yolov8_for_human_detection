@@ -58,3 +58,10 @@ You can download pytorch model (.pt) at this link: [model](https://github.com/tr
 ```
 !yolo export model=./best.pt format=onnx
 ```
+
+# Demo
+https://github.com/truong11062002/yolov8_for_human_detection/assets/74360292/ef7138c4-ad02-46c5-aa00-fe6d84ffb7e4
+
+Predict 01             |  Predict 02
+:-------------------------:|:-------------------------:
+![Crowd-of-Diverse-People_800x528 (1)](https://github.com/truong11062002/yolov8_for_human_detection/assets/74360292/5f42125a-d5f7-411c-bf7c-513c60090360)  |  ![XaHpf_z51huQS_JPHs-jkPhBp0dLlxFJwt-sPLpGJB0](https://github.com/truong11062002/yolov8_for_human_detection/assets/74360292/347db97f-5602-41d3-aecd-7bfecebbb19f)

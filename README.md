@@ -60,7 +60,6 @@ You can download pytorch model (.pt) at this link: [model](https://github.com/tr
 ```
 
 # Demo
-https://github.com/truong11062002/yolov8_for_human_detection/assets/74360292/ef7138c4-ad02-46c5-aa00-fe6d84ffb7e4
 
 Predict 01             |  Predict 02
 :-------------------------:|:-------------------------:

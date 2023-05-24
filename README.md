@@ -36,8 +36,8 @@ You can download pytorch model (.pt) at this link: [model](https://github.com/tr
 !yolo val model=./best.pt data= ./data.yaml'
 ```
 
-**best.pt**: file weight of model after training
-**data.yaml**: containing information about your dataset
+* **best.pt**: file weight of model after training
+* **data.yaml**: containing information about your dataset
 
 # Predict
 
